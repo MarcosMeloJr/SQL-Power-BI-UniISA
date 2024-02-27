@@ -39,6 +39,8 @@ Para este desafio será necessário:
 As consultas podem ser visualizadas neste repositório:
 - [Clique aqui para visualizar](PortfolioCurso.sql)
 
+- <img width="1000" src="https://user-images.githubusercontent.com/120759992/235329230-ffb6313d-b259-4d16-99a5-06c6a781cb03.PNG">
+
 <br />
 
 # Consulta de Testes
@@ -58,8 +60,9 @@ Feitas as tabelas e testadas as consultas, foi necessário fazer a extração pa
  
 <br />
   
- 
- 
+ # Prototipação
+ Utilizando o Figma foi elaborado um protótipo do dashboard, usando as cores principais da UniISA, decidindo como poderia ser o design e como as informações ficariam dispostas.
+ - <img width="1000" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
   
 # Dashboard 
 - [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiZWUwNDNhYTgtZjI0Yi00YTRiLWE5MzItOWYwZWZiM2YyOTg1IiwidCI6ImQ2ZjhiMGIwLTRiNzEtNDE1Yy1iODczLTk4ZDY3Mzc3MzhiZCJ9)
@@ -80,6 +83,8 @@ Feitas as tabelas e testadas as consultas, foi necessário fazer a extração pa
 - Mais de 50% dos alunos estudam na modalidade EAD;
 - Os cursos Big Data e Jornalismo ocupam o primeiro lugar com 31 alunos matriculados, ambos na modalidade EAD;
 - O campus de Curitiba conta com a menor quantidade de alunos sendo que 2/3 dos seus cursos são presencias.
+  <br />
+
   Aqui podemos ver uma clara preferência por cursos a distância. Uma tendência que ganhou força no período pós pandemia. Essa realidade mostra-se vantajosa para a universidade por possibiliatr um alcance maior de público assim como reduzir os custos operacionais. Por outro lado esse quadro traz desafios como elaborar maneiras mais efetivas para manter os alunos engajados, tornar mais robusto e eficiente o suporte técnivo e capacitaro o corpo docente para essa inovadora modalidade de ensino. 
  
  

@@ -39,14 +39,14 @@ Para este desafio será necessário:
 As consultas podem ser visualizadas neste repositório:
 - [Clique aqui para visualizar](https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Script%20de%20cria%C3%A7%C3%A3o%20e%20popula%C3%A7%C3%A3o.sql)
 
-- <img width="1000" src="https://user-images.githubusercontent.com/120759992/235329230-ffb6313d-b259-4d16-99a5-06c6a781cb03.PNG">
+- <img width="1000" src="https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Query.png">
 
 <br />
 
 # Consulta de Testes
 
  Foram desenvolvidos códigos que ajudarão a validar os requisitos ainda no ambiente do SQL Server. Elas podem ser visualizadas aqui:
-- [Clique aqui para visualizar](PortfolioCurso.sql)
+- [Clique aqui para visualizar](https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Consultas%20Testes%20de%20SQL.sql)
 
 
 <br />
@@ -56,21 +56,21 @@ As consultas podem ser visualizadas neste repositório:
 # ETL (Extração, Transformação e Carregamento)
 Feitas as tabelas e testadas as consultas, foi necessário fazer a extração para o Power BI e fazer a modelagem das mesmas.
 
- <img width="1000" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
+ <img width="1000" alt="ETL" src="https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Extra%C3%A7%C3%A3o.png">
  
 <br />
   
  # Prototipação
  Utilizando o Figma foi elaborado um protótipo do dashboard, usando as cores principais da UniISA, decidindo como poderia ser o design e como as informações ficariam dispostas.
- - <img width="1000" alt="ETL" src="https://user-images.githubusercontent.com/120759992/234715009-41cd4875-6830-4f42-b3d2-2a84dda0405c.PNG">
+ - <img width="1000" alt="ETL" src="https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/UniISA%20Prototipa%C3%A7%C3%A3o.png">
   
 # Dashboard 
-- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiZWUwNDNhYTgtZjI0Yi00YTRiLWE5MzItOWYwZWZiM2YyOTg1IiwidCI6ImQ2ZjhiMGIwLTRiNzEtNDE1Yy1iODczLTk4ZDY3Mzc3MzhiZCJ9)
+- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiOWRjOGEyYmEtZjU2Yy00MDI3LWExNmUtNjdlZmI5NTE1NDE0IiwidCI6ImI2ZTUxYmY3LTlmNjItNDM0Ny1hYTk1LTlhYzljMjI2OTFlOCJ9)
 
 <br />
  
-![DASHBOARD](https://user-images.githubusercontent.com/120759992/235730625-f886f5cf-f8c2-4462-b108-161085db0faa.png)
-![DASHBOARD](https://user-images.githubusercontent.com/120759992/235730625-f886f5cf-f8c2-4462-b108-161085db0faa.png)
+![DASHBOARD](https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Apresenta%C3%A7%C3%A3o.png)
+![DASHBOARD](https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Dashboard.png)
 
 
 
@@ -78,7 +78,7 @@ Feitas as tabelas e testadas as consultas, foi necessário fazer a extração pa
 
 
 # Descobertas e Insights
-<img width="1000" src="https://user-images.githubusercontent.com/120759992/235329230-ffb6313d-b259-4d16-99a5-06c6a781cb03.PNG">
+<img width="1000" src="https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Insights.jpg">
 
 - Mais de 50% dos alunos estudam na modalidade EAD;
 - Os cursos Big Data e Jornalismo ocupam o primeiro lugar com 31 alunos matriculados, ambos na modalidade EAD;
@@ -89,7 +89,7 @@ Feitas as tabelas e testadas as consultas, foi necessário fazer a extração pa
  
  
 
- # Recomendações ao tomador de decisão
+ # Recomendações
 - Apesar das dificuldades citadas anteriormente, o Centro Universitário poderia procurar investir em novas ofertas de cursos à distância;
 - Flexibilizar, na medida do possível, alguns cursos que possuem uma natureza mais teórica, para a modalidade semipresencial;
 - Propõe-se aumentar a quantidade de cursos oferecidos na modalidade EAD em cada campus, de modo que esses cursos representem pelo menos 50% do total de cursos oferecidos no respectivo campus;
@@ -98,9 +98,9 @@ Feitas as tabelas e testadas as consultas, foi necessário fazer a extração pa
 <br />
 
 # BÔNUS - Dica de Ferramenta - Tooltip
-- As dicas de ferramentas no Power BI permitem análises dentro de outras análises, conforme mostrado no vídeo abaixo.
+- As dicas de ferramentas no Power BI permitem análises dentro de outras análises, conforme mostrado no vídeo abaixo:
  
 
 
 
-https://user-images.githubusercontent.com/120759992/235731168-3afd34b5-339f-4f52-a5e3-c8c33abc4e30.mp4
+https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Tooltip.mp4

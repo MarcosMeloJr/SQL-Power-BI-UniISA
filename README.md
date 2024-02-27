@@ -1,6 +1,6 @@
-# Projeto de Análise da UniISA
+# Projeto de Análise Centro Universitário UniISA
 <div style="display: flex; justify-content: space-between;"> <br>
-<img width="1000" alt="netflix" src="https://user-images.githubusercontent.com/120759992/235283693-2ca603e9-0d99-4032-a7d7-1ea06f451847.PNG">
+<img width="1000" alt="netflix" src="https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Universidade.jpg">
 
 # Contexto e Objetivo
 ### Contexto:
@@ -37,7 +37,7 @@ Para este desafio será necessário:
 # Consulta de Criação
 
 As consultas podem ser visualizadas neste repositório:
-- [Clique aqui para visualizar](PortfolioCurso.sql)
+- [Clique aqui para visualizar](https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA/blob/main/Script%20de%20cria%C3%A7%C3%A3o%20e%20popula%C3%A7%C3%A3o.sql)
 
 - <img width="1000" src="https://user-images.githubusercontent.com/120759992/235329230-ffb6313d-b259-4d16-99a5-06c6a781cb03.PNG">
 

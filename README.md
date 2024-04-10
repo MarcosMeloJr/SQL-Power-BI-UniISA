@@ -85,7 +85,7 @@ Feitas as tabelas e testadas as consultas, foi necessário fazer a extração pa
 - O campus de Curitiba conta com a menor quantidade de alunos sendo que 2/3 dos seus cursos são presencias.
   <br />
 
-  Aqui podemos ver uma clara preferência por cursos a distância. Uma tendência que ganhou força no período pós pandemia. Essa realidade mostra-se vantajosa para a universidade por possibiliatr um alcance maior de público assim como reduzir os custos operacionais. Por outro lado esse quadro traz desafios como elaborar maneiras mais efetivas para manter os alunos engajados, tornar mais robusto e eficiente o suporte técnivo e capacitaro o corpo docente para essa inovadora modalidade de ensino. 
+  Aqui podemos ver uma clara preferência por cursos a distância. Uma tendência que ganhou força no período pós pandemia. Essa realidade mostra-se vantajosa para a universidade por possibiliatr um alcance maior de público assim como reduzir os custos operacionais. Por outro lado esse quadro traz desafios como elaborar maneiras mais efetivas para manter os alunos engajados, tornar mais robusto e eficiente o suporte técnivo e capacitar o o corpo docente para essa inovadora modalidade de ensino. 
  
  
 
